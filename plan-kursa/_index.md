@@ -129,6 +129,4 @@ title: План курса
 
 6. Защита проекта (4 ч)
 
- 
-
 <view defs="hierarchy=none" display="List"/>
